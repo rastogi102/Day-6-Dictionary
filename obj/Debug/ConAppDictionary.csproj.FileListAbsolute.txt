@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAY-6\Dictionary\ConAppDictionary\ConAppDictionary\bin\Debug\ConAppDictionary.exe.config
+F:\Training Stuff\Dot netTraining\DAY-6\Dictionary\ConAppDictionary\ConAppDictionary\bin\Debug\ConAppDictionary.exe
+F:\Training Stuff\Dot netTraining\DAY-6\Dictionary\ConAppDictionary\ConAppDictionary\bin\Debug\ConAppDictionary.pdb
+F:\Training Stuff\Dot netTraining\DAY-6\Dictionary\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-6\Dictionary\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-6\Dictionary\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-6\Dictionary\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.exe
+F:\Training Stuff\Dot netTraining\DAY-6\Dictionary\ConAppDictionary\ConAppDictionary\obj\Debug\ConAppDictionary.pdb
